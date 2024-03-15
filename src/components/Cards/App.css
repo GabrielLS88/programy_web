@@ -1,0 +1,23 @@
+.carousel-image{
+    width: 100%;
+    height: auto;
+}
+
+.tamanhoCarrosel{
+    width: 100%;
+    height: auto;
+}
+  
+h3{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.iconCard{
+    width: 150rem;
+    display: none;
+}
+
+.mb-2 text-muted{
+    color: white;
+}

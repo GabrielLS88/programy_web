@@ -1,0 +1,44 @@
+.bodyContato{
+    background-color:#021220;
+}
+.divPrincipal{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 7rem 3rem;
+}
+.tituloPagina{
+    font-size: 3rem;
+    color: #38B6FF;
+}
+.espacoContato{
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding: 0.5rem;
+}
+#textoLikWhats{
+    margin-right: 0.3rem;
+}
+
+.buttonEmail{
+    width: auto;
+    height: auto;
+    padding: 0.5rem;
+    border: 0;
+    border-radius: 0.5rem;
+    background: #38B6FF;
+    margin-right: 0.5rem;
+}
+
+#linkDentroDoBTN{
+    color: white;
+    text-decoration: none;
+    padding: 0.3rem;
+}

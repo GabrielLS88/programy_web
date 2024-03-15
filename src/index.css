@@ -1,0 +1,28 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+/* Altera a cor da barra de rolagem */
+::-webkit-scrollbar {
+    width: 1rem; /* largura da barra de rolagem */
+}
+
+/* Altera a cor do fundo da barra de rolagem */
+::-webkit-scrollbar-track {
+    background-color: #f1f1f1; /* cor de fundo */
+}
+
+/* Altera a cor da barra de rolagem */
+::-webkit-scrollbar-thumb {
+    background-color: #38B6FF; /* cor da barra de rolagem */
+    border-radius: 2px; /* borda arredondada */
+}
+
+/* Altera a cor da barra de rolagem quando o cursor está sobre ela */
+::-webkit-scrollbar-thumb:hover {
+    background-color: #38B6FF; /* cor da barra de rolagem ao passar o cursor sobre ela */
+}

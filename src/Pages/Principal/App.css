@@ -1,0 +1,37 @@
+.body{
+    background-color:#021220;
+}
+.corpo{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.positionCarrosel{
+    width: 90%;
+    height: 100%;
+    margin-top: 6rem;
+}
+
+.positonCards{
+    width: 90%;
+    height: 100%;
+    margin: 2rem 0rem 5rem;
+}
+
+.postoHistoria{
+    width: 90%;
+    height: 100%;
+    margin: 4rem 0rem 2rem;
+    border: 0.1rem solid #38B6FF;
+    border-radius: 5px;
+    padding: 0.5rem;
+}
+
+.postoHistoria h3 {
+    text-align: center;
+    font-size: 1.2rem;
+}

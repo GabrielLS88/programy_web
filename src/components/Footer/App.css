@@ -1,0 +1,44 @@
+.bodyFooter{
+    width: 100%;
+    height: auto;
+    background-color:#032338;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem 0rem;
+}
+
+#tituloFooter{
+    font-size: 1rem;
+}
+
+#subtituliFooter{
+    font-size: 1rem;
+    color: white;
+}
+
+.divFooter{
+    width: auto;
+    height: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 0.2rem 1rem;
+}
+
+@media screen and (max-width: 600px) {
+    .bodyFooter{
+        flex-direction: column;
+        padding: 2rem 0rem;
+    }
+
+    .divFooter{
+        padding: 1rem 2rem;
+    }
+}
+
+@media screen and (min-width: 601px) and (max-width: 900px) {
+
+}
